@@ -13,11 +13,9 @@ We leverage the **HAM10000 dataset**, apply **preprocessing (hair removal, resiz
 4. [Model Architecture](#model-architecture)
 5. [Training Pipeline](#training-pipeline)
 6. [Evaluation Metrics](#evaluation-metrics)
-7. [Results](#results)
-8. [Installation](#installation)
-9. [Usage](#usage)
-10. [Future Work](#future-work)
-11. [Acknowledgements](#acknowledgements)
+7. [Installation](#installation)
+
+
 
 ---
 
